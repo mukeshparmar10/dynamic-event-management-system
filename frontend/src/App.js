@@ -9,10 +9,10 @@ function App() {
       <h4>Today Event</h4>
       <TodayEvent />
 
-      <h4>Previous Day Event Event</h4>
+      <h4>Previous Day Event</h4>
       <PreviousEvent />
 
-      <h4>Next Day Event Event</h4>
+      <h4>Next Day Event</h4>
       <NextEvent />
       <div className="copy">
       &copy; Mukesh Parmar
